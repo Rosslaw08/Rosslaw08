@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rosslaw08
+- 👋 Hi, I’m Ross!
 - 👀 I’m interested in becoming a full stack software developer
 - 🌱 I’m currently learning The Odin Project!
 - 💞️ I’m looking to collaborate on projects on GitHub once I am ready
